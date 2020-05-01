@@ -1,2 +1,2 @@
 # CAS-FEE-1
-ToDo Application with CSS/JS/HTML
+ToDo app with CSS/JS/HTML
